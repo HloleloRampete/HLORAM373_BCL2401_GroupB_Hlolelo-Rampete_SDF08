@@ -1,2 +1,2 @@
-# HLORAM373_BCL2401_GroupB_Hlolelo-Rampete_SDF08
-Portfolio Website
+# Hlolelo Rampete Portfolio Website
+ Personal Website
